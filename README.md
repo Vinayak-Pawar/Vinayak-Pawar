@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/vinayak1455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vinayak1455/" height="30" width="40" /></a>
+<a href="https://x.com/vinayak1455/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vinayak1455/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vinayakpawar72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinayakpawar72" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/vinayakpawar1455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vinayakpawar1455" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vinayakpawar_wo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vinayakpawar_wo1" height="30" width="40" /></a>
