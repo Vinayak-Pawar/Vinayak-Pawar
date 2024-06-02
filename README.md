@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **I am continuously expanding my knowledge and skills in the latest technologies to become a proficient Full Stack AI Software Engineer and MLOps Engineer, dedicated to achieving excellence in the field.**
 
-- 💬 Ask me about **Artificial Intelligence, Full Stack Technologies, Cloud Technology**
+- 💬 Ask me about **Artificial Intelligence, Full Stack Technologies and Cloud Technology**
 
 - 📫 How to reach me **vinayakpawar.work@gmail.com**
 
