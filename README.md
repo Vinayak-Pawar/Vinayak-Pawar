@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Pawar</h1>
-<h3 align="center">I'm a Master's student in Artificial Intelligence with a strong focus on becoming a full stack AI software engineer, DevOps, and MLOps Engineer. I have experience in both front-end and back-end development, as well as cloud technologies.</h3>
+<h3 align="center">I'm a Master's student in Artificial Intelligence with a strong focus on becoming a full stack AI software engineer with MLOps. I have experience in both front-end and back-end development, as well as cloud technologies.</h3>
 
 <p align="center">
   <img src="./832357.jpg" alt="Eat Sleep Code Repeat" />
