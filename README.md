@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Agentic AI systems focused on system design automation, cloud resilience, and compliant data generation, using LLMs, multi-agent orchestration, FastAPI, and cloud-native architectures.<br>👯 I’m looking to collaborate on<br>Open-source projects in LLMs, agent frameworks, MLOps, distributed systems, and applied AI for real-world domains like healthcare, fintech, and infrastructure.<br>🤝 I’m looking for help with<br>Advanced multi-agent orchestration, scalable evaluation of LLM systems, and bridging the gap between research-grade ideas and production reliability.<br>🌱 I’m currently learning<br>Reinforcement learning for operations, agent evaluation & safety, cloud-native AI architectures, and deeper internals of distributed ML systems.<br>💬 Ask me about<br>Agentic AI, LangChain/LangGraph, Google ADK, Vertex AI, BigQuery, MLflow, healthcare ML systems, and contributing to large open-source codebases (PyTorch).<br>⚡ Fun fact<br>I believe most AI problems aren’t intelligence problems — they’re reliability problems.
+🔭 I’m currently working on<br>Agentic AI systems focused on system design automation, cloud resilience, and compliant data generation, using LLMs, multi-agent orchestration, FastAPI, and cloud-native architectures.
+<br>👯 I’m looking to collaborate on<br>
+Open-source projects in LLMs, agent frameworks, MLOps, distributed systems, and applied AI for real-world domains like healthcare, fintech, and infrastructure.
+<br>🤝 I’m looking for help with<br>
+Advanced multi-agent orchestration, scalable evaluation of LLM systems, and bridging the gap between research-grade ideas and production reliability.
+<br>🌱 I’m currently learning<br>
+Reinforcement learning for operations, agent evaluation & safety, cloud-native AI architectures, and deeper internals of distributed ML systems.
+<br>💬 Ask me about<br>
+Agentic AI, LangChain/LangGraph, Google ADK, Vertex AI, BigQuery, MLflow, healthcare ML systems, and contributing to large open-source codebases (PyTorch).
+<br>⚡ Fun fact<br>
+I believe most AI problems aren’t intelligence problems — they’re reliability problems.
 
 
 ## 🌐 Socials:
